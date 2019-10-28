@@ -1,0 +1,7 @@
+main: client.lua
+multiplayer:
+    enabled: true
+    serverMain: server.lua
+title: Basic Multiplayer Tutorial (Stream Version)
+owner: nikki
+description: Made this while streaming my "Basic Multiplayer Tutorial"
